@@ -11,7 +11,7 @@ The data covers:
 
 **Product Categories:** Coverage over major retail categories common during Diwali shopping.
 
-**Key Features**
+**KEY FEATURES**
 
 Comprehensive Retail Dataset: Includes customer profiles (ID, name, age group, gender, marital status), location specifics (state, zone), occupation, product categories, order quantities, and purchase amounts.
 
@@ -19,7 +19,7 @@ Diverse Product Coverage: Transactions span key retail categories such as Furnit
 
 Demographic Segmentation: Data enables targeted analysis by age group, gender, marital status, location (state/zone), and occupation.
 
-**Insights**
+**INSIGHTS**
 
 **Customer Segmentation:** The data supports segmentation analysis—identifying groups with high purchase potential during Diwali.
 
@@ -29,7 +29,7 @@ Demographic Segmentation: Data enables targeted analysis by age group, gender, m
 
 **Occupation Influence:** Purchases are notably high among professionals in IT, Healthcare, and Aviation sectors.
 
-**Outcome**
+**OUTCOME**
 
 After detailed analysis, the most likely Diwali shoppers are:
 Married women aged 26–35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation.
